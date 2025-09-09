@@ -1,6 +1,6 @@
-# ArduinoPedals
+# Arduino Gaming Wheel + Pedals
 ## Description
-Sketch for program Arduino Pro Micro as a Gaming Wheel Pedals
+Sketch for program Arduino Pro Micro as a Gaming Wheel and Pedals
 
 ## Hardware
 1. Arduino Pro Micro — 1x
